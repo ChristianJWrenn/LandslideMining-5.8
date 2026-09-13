@@ -64,5 +64,9 @@
 			"Name": "EnvironmentQueryEditor",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"Windows"
 	]
 }
