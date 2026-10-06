@@ -63,6 +63,10 @@
 		{
 			"Name": "EnvironmentQueryEditor",
 			"Enabled": false
+		},
+		{
+			"Name": "PixelStreaming2",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
