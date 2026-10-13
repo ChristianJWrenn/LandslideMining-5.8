@@ -17,10 +17,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "ChaosEditor",
-			"Enabled": false
-		},
-		{
 			"Name": "ChaosSolverPlugin",
 			"Enabled": false
 		},
@@ -66,6 +62,10 @@
 		},
 		{
 			"Name": "PixelStreaming2",
+			"Enabled": true
+		},
+		{
+			"Name": "Fracture",
 			"Enabled": true
 		}
 	],
