@@ -61,10 +61,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "PixelStreaming2",
-			"Enabled": true
-		},
-		{
 			"Name": "Fracture",
 			"Enabled": true
 		}
